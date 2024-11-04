@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&family=Tiny5&display=swap');
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Eagle Lake", serif;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(16, 16, 16);
+}
+
+a{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+
+header{
+    background-color: rgb(16, 16, 16);
+    height: 100px;
+}
+.menu{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
+img{
+    padding-left:24%;
+    height: 680px;    
+    
+}
+
+h3{
+    color: aliceblue;
+    text-decoration: underline
+}
+
+h2{
+    font-size: 35px;
+    color: aliceblue;
+    
+}
+
+p{
+    color: aliceblue;
+    font-size: 25px;
+}
+nav{
+    color: aliceblue;
+}
+
+li{
+    color: aliceblue;
+
+
+    /* .fondoimg{
+        background-image: url(../img/monsterhunter.png);
+        background-color: rgb(16, 16, 16);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 700px;
+    } */
+}
